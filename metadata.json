@@ -1,0 +1,5 @@
+{
+  "name": "SmartBasket",
+  "description": "A modern, clean, and responsive full-stack grocery e-commerce platform with admin and customer roles.",
+  "requestFramePermissions": ["geolocation"]
+}
