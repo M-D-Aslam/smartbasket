@@ -141,9 +141,9 @@ export const Footer: React.FC = () => {
           <div>
             <h3 className="text-white font-bold mb-6">Contact Us</h3>
             <ul className="space-y-4 text-sm text-gray-400">
-              <li>new raj nagar basti bawa khel jalandhar punjab 144021</li>
+              <li>NEW RAJ NAGAR BASTI BAWA KHEL JALANDHAR PUNJAB , 144021</li>
               <li>0409aslam@gmail.com</li>
-              <li>8699941511</li>
+              <li>+91 8699941511</li>
             </ul>
           </div>
         </div>
