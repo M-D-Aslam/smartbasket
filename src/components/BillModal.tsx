@@ -130,7 +130,7 @@ export const BillModal: React.FC<BillModalProps> = ({ order, isOpen, onClose }) 
 
               <div className="mt-12 pt-8 border-t border-gray-100 text-center print:mt-8 print:pt-6">
                 <p className="text-xs font-bold text-gray-900 mb-1">Thank you for shopping with SmartBasket!</p>
-                <p className="text-[10px] text-gray-400 font-medium">For any queries, please contact support@smartbasket.com</p>
+                <p className="text-[10px] text-gray-400 font-medium">For any queries, please contact 0409aslam@gmail.com</p>
               </div>
             </div>
           </motion.div>
